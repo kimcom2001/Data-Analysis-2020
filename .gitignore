@@ -5,6 +5,7 @@ googlemapskey.txt
 roadapikey.txt
 openweatherkey.txt
 kakaomapkey.txt
+chromedriver.exe
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
